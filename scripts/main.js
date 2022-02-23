@@ -58,7 +58,6 @@ function destoryBlock(block, id) {
     //查询过的方块
     let blockChecked = [block];
     let firstBlock = true;
-    console.error("运行");
     while (blockStack.length > 0) {
         let l = blockStack.pop();
         let b = dim.getBlock(l);
