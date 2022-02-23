@@ -1,0 +1,24 @@
+{
+  "name": "fc-s-chain-mining-mod",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "publish": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xxyz30/FC-s-chain-mining-mod.git"
+  },
+  "author": "xxyz30",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xxyz30/FC-s-chain-mining-mod/issues"
+  },
+  "homepage": "https://github.com/xxyz30/FC-s-chain-mining-mod#readme",
+  "dependencies": {
+    "@types/mojang-gametest": "^0.1.3",
+    "@types/mojang-minecraft": "^0.1.3"
+  }
+}
